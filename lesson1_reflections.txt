@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Locate changes in large file without having to check all is the same. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Seeing how work progressed over time
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Able to commit at logical change points
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    For handling related files e.g web page + stylesheet or code modules etc
+
+How can you use the commands git log and git diff to view the history of files?
+
+    log to list all commits, diff to compare changes between two versions
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    ease of changing back
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Programming and for shared documents
+
+
+
+
+Reading
+------------
+See the links for more about the importance of reflection
+- https://sites.google.com/site/reflection4learning/why-reflect
+- downloaded doc - How Critical Reflection Triggers Transformative Learning Jack Mezirow
+
+
