@@ -7,14 +7,19 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+    make sure all changed files are staged after the change
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    trying out experimental variations, allowing multiple users to collaborate on shared files
 
 How do the diagrams help you visualize the branch structure?
+    by showing parent relationships, branches and detached heads
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+    merging combines the code, removing deletions and adding new lines from each branch compared to the original, shown in diagram as branches coming back together.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+    automatic saves time when no conflict 
